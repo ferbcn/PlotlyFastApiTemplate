@@ -1,0 +1,18 @@
+html{
+    background: #111111;
+    color: lightgrey;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+#draggable {
+    padding: 20px;
+    position: relative;
+}
+
+#draggable2 {
+    padding: 20px;
+    position: relative;
+    top: 50px;
+}
